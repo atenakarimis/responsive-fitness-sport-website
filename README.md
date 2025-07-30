@@ -1,2 +1,2 @@
 # FitnessSport-web
-resposnive web page with html, css &amp; JavaScript
+resposnive web page with html, css &amp; JS
